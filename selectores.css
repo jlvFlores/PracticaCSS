@@ -14,3 +14,10 @@ div article p {
 div p a {
     color: red;
 }
+.grande{
+    font-size: 28px;
+}
+.rojo {
+    color: red;
+}
+/* .main article p {} */
